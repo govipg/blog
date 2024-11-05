@@ -28,10 +28,10 @@ comment:
   type: giscus
 
 giscus:
-  repo: hai-zou/hexo-theme-sea
-  repoid: R_kgDOLD6S2g
+  repo: govipg/blog
+  repoid: R_kgDONKkZZg
   category: General
-  categoryid: DIC_kwDOLD6S2s4CgP0r
+  categoryid: DIC_kwDONKkZZs4Cj_EQ
   mapping: pathname
   strict: "0"
   reactionsenabled: "1"
