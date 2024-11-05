@@ -1,4 +1,8 @@
-# SQL中的NULL是这么回事儿
+title: SQL中的NULL是这么回事儿
+date: 2013-12-24 23:30:09
+categories:
+- 数据库
+---
 
 > 在日常使用数据库时，你在意过NULL值么？
 
