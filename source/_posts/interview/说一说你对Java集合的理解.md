@@ -1,18 +1,14 @@
-title:说一说java集合的理解
-
-date:2023-11-12
-
+title: 说一说java集合的理解
+date: 2024-11-12
 categories:
-
 - 面试
-  tags:
+tags:
 - 集合
-
 ---
 
 # 说一说java集合的理解
 
-![集合结构体系图](assets/%E9%9B%86%E5%90%88%E7%BB%93%E6%9E%84%E4%BD%93%E7%B3%BB%E5%9B%BE.png)
+![集合结构体系图](/assets/%E9%9B%86%E5%90%88%E7%BB%93%E6%9E%84%E4%BD%93%E7%B3%BB%E5%9B%BE.png)
 
 
 
