@@ -1,18 +1,18 @@
 menu:
   - name: Home
     url: /
-  - name: Categories
+  - name: 分类
     url: /categories/
-  - name: Tags
+  - name: 标签
     url: /tags/
-  - name: Archives
+  - name: 归档
     url: /archives/
   - name: Friends
     url: /friends/
 
 socialLink:
   - name: Github
-    link: https://github.com/hai-zou/
+    link: https://github.com/govipg/
 
 friends:
   - name: 旧梦

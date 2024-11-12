@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 郭志鹏
 subtitle: ''
 description: 'This a simple and beautiful theme'
 keywords: 'hexo theme,blog,hexo,blog theme'
-author: John Doe
-language: en
+author: guozhipeng
+language: zh-CN
 timezone: ''
 favicon: /logo.svg
 
