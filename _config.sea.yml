@@ -10,13 +10,20 @@ menu:
   - name: Friends
     url: /friends/
 
+# 基本信息
+user:
+  avatar: /revili.svg # 头像
+  name: govipg # 名称
+  intro: java程序员 # 简介
+
+# 社交链接
 socialLink:
-  - name: Github
-    link: https://github.com/govipg/
+  - icon: <i class="sea-font">github</i> # 图标 | 可引入自定义图标
+    link: https://github.com/govipg/ # 跳转链接
 
 friends:
   - name: 旧梦
-    avatar: //imgs.izou.top/user/avatar.jpg
+    avatar: //imgs.izou.top/images/userInfo/avatar.jpg
     link: //blog.izou.top
     desc: 冰冻三尺非一日之寒，滴水穿石非一日之功
 
