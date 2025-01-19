@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: govipg
+title: govipg's Blog
 subtitle: ''
 description: 'This a simple and beautiful theme'
 keywords: 'hexo theme,blog,hexo,blog theme'
 author: guozhipeng
 language: zh-CN
 timezone: ''
-favicon: /logo.svg
+favicon: /revili.svg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
